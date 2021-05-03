@@ -1,0 +1,20 @@
+#filters {
+  /* border: 1px solid black; */
+  /* float: left; */
+  margin: 0;
+}
+.price-input {
+  /* float: left; */
+}
+.input-text {
+  width: 50px;
+}
+.single-goods {
+  /* border: 1px solid black;
+  margin: 10px;
+  float: left;
+  text-align: center; */
+}
+.single-goods img {
+  /* width: 220px; */
+}
